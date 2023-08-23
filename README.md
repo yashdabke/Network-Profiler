@@ -1,0 +1,2 @@
+# WiFi-Network-Info-Tool
+ It fetches and displays details about WiFi profiles stored on the system, including profile names and passwords if available. Additionally, it retrieves the system's IP address and lists the names of available networks in the vicinity. This utility offers a convenient way to gather and view pertinent wireless network information in a single run, aiding users in managing their network connections effectively.
