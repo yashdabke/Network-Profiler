@@ -1,3 +1,4 @@
+# pip install speedtest only for this code - provides a gui window to display network details 
 
 import subprocess
 import socket
